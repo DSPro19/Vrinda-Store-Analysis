@@ -1,3 +1,5 @@
+## File 2- Full Report
+
 # Vrinda-Store-Analysis
 
 ## 📦 Real-world Excel project to analyze and optimize store performance for a retail brand.
